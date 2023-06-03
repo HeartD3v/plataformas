@@ -1,0 +1,47 @@
+{
+    "image2": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P8AAAAAAAAAAAAAwLEAAAAAAAAA//8PH/sAAAAAAAD/3b38H7EAAAAAAPAbEd29H/sAAAAAAPAREb0czPEPAAAAAB8REfEfvf8PAAAAAB8REdER+///AAAAAB8REdERsf//AAAAAB8REfEf+///AAAAAPAREb0czbEPAAAAAPAbEd29H/sAAAAAAAD/3b38H7EAAAAAAAAA//8PH/sAAAAAAAAAAAAAz7EAAAAAAAAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpriteEnemigo"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD+Lv/v/v8A8P7yIu/+Qv/v/i7y7v5C/+8v8u7u/kIP7y/y7u7+Qg/v/i7y7v5C//D+8iLv/kL/8P4u/+7+/wAA/+/v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JuagdorArriba"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGZmAAAAAAB2d3ZmAAAAcHd3d3cGAAB4d3d3d2cAAHh3d3d3ZwCAeHd3d3d3BoCHd3eIeHcGgId3h4iIdwaAiHeHiIh3BgCId4eIiGcAAIh3h4h4ZwAAgHh3iIcIAAAAiIiIiAAAAAAAiIgAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpritePelota"
+    },
+    "image5": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spawn"
+    },
+    "image1": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jugador"
+    },
+    "image6": {
+        "data": "hwQIAAgAAAAAu8wAsFXVD1s90/1bUxX9W1MV/Vsd0f2wVd0PALvMAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpriteMoneda"
+    },
+    "image7": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpriteJugador"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpriteSpawn"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
